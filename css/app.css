@@ -1,0 +1,28 @@
+table {
+  padding: 10px;
+}
+#balance {
+  width: 100px;
+  height: 40px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+#amount {
+  width: 100px;
+  height: 20px;
+  border: 2px solid black;
+  margin-bottom: 10px;
+}
+h3 {
+  margin-bottom: -2px;
+  margin-left: 5px;
+}
+table {
+  border: 2px solid black;
+}
+td {
+  border: 1px solid gray;
+}
+.withdraw {
+  font-color: red;
+}
